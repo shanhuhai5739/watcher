@@ -1,0 +1,5 @@
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [WARN] [900000001] [watcher.setAction:action.go:103] setAction json.Unmarshal: node:/watcher/unittest/corallocalhost/config, err:unexpected end of JSON input
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [FATAL] [900000001] [watcher.setAction.func1:action.go:54] setAction: recover is err, err:<nil>
+[2017-05-15 18:04:45] [watcher] [coralmac.local] [WARN] [900000001] [watcher.deleteAction:action.go:156] deleteAction json.Unmarshal: node:/watcher/unittest/corallocalhost/config, err:unexpected end of JSON input
+[2017-05-15 18:57:36] [watcher] [coralmac.local] [WARN] [900000001] [watcher.deleteAction:action.go:198] deleteAction: file doesn't exist, action:delete
+[2017-05-15 18:58:49] [watcher] [coralmac.local] [WARN] [900000001] [watcher.deleteAction:action.go:198] deleteAction: file doesn't exist, action:delete

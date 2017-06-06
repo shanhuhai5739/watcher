@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+if [ ! -f build ]; then
+   echo 'install must be run within its container folder' 1>&2
+   exit 1
+fi
+
+target=$1
+flag=$2
+CURDIR=`pwd`
+OLDGOPATH="$GOPATH"
+export GOPATH="$CURDIR"
+
+#gofmt -w src
+
+cd $CURDIR/app/${target}
+go build -o $CURDIR/bin/${target}
+if [ $? == 0 ];then
+    echo "build $target success !!!"
+else
+    echo "build $target failed !!!"
+fi
+
+export GOPATH="$OLDGOPATH"
+
+

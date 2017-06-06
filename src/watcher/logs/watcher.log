@@ -1,0 +1,453 @@
+[2017-05-15 17:43:52] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:43:52] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:43:52] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:43:52] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:46:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:46:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:46:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:46:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:47:01] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:47:01] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:47:01] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:47:01] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:48:00] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:48:00] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:48:00] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:48:00] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:49:14] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:49:14] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:49:14] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:49:14] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:50:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:50:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:50:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:50:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:50:51_1511663476338036839
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:52:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:52:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:52:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:52:35] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:209] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:52:35_7286761724283724653
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:56:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:56:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:56:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:56:23] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:209] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:56:23_1803882667130590194
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:57:20] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:57:22] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:57:22] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:57:22] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:209] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:57:22_3217992490217382433
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:58:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:58:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:58:11] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:58:11_7644787096966335040
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:58:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 17:58:45] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 17:58:45] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 17:58:45] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_05:58:45_1427711485591255217
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:00:33] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:00:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:00:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:00:35] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:00:35_7209514851363926130
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:00:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:01:00] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:01:00] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:01:00] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:01:00_4203714754696899389
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:01:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:01:59] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:01:59] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:01:59] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:209] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:01:59_4310502200454568695
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:02:46] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:02:48] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:02:48] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:02:48] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:209] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:02:48_8447328550947950805
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost OK
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost/rsyslog/config OK
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost/rsyslog/config.d
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost/rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:04:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/config
+[2017-05-15 18:04:45] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:04:45] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/config
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:05:11] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:05:13] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:05:13] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:05:13] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:05:13_7761452753948402713
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:21:03] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:21:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:21:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:21:05] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:21:05_3042984673131279997
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:24:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:24:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:24:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:24:23] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:24:23_4183279112383419571
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:27:36] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:27:40] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:27:40] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:27:40] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:27:40_6805609071613130758
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:27:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:27:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:27:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:27:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:27:58_1113244307410160568
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:28:23] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:134] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:28:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:28:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:28:30] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:212] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:28:30_7082462147075761632
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:29:35] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:134] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:29:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:29:42] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:29:42] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:212] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:29:42_4672786753018298614
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:30:38] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:30:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:30:46] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:30:46] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:30:46_2367964743712494150
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:31:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction.func2:action.go:76] =============== resp value: %!(EXTRA string=
+		proxy_connect_timeout    120;
+		proxy_read_timeout       120;
+		proxy_send_timeout       120;
+		proxy_buffer_size        16k;
+		proxy_buffers            4 64k;
+		proxy_busy_buffers_size 128k;
+		proxy_temp_file_write_size 128k;)
+[2017-05-15 18:31:22] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:31:22] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:31:22] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:211] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:31:22_1613094522984382631
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:32:07] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:32:14] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:32:14] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:32:14] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:32:14_7949073377770689549
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:32:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:132] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:33:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:33:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:33:04] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:210] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:33:04_113933023444441465
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:36:30] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:129] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:36:37] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:36:37] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:36:37] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:207] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:36:37_6096133301992070263
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:40:51] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:129] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:40:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:40:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:40:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:207] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:40:58_7548131230464832313
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:41:15] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:129] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:41:19] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:41:19] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:41:19] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:207] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:41:19_8474669336571772999
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:42:04] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:130] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:42:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:42:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:42:08] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:208] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:42:08_8484908276269839420
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:20] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:42:21] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:130] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:42:25] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:42:25] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:42:25] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:208] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:42:25_6901943084483092647
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:47:06] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:128] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:47:10] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:47:10] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:47:10] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:206] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:47:10_4222694365338287381
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:50:39] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:121] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:50:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:50:43] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:50:43] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:199] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:50:43_6091675011333868266
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:54:08] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:121] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:54:12] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:54:12] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:54:12] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:233] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:54:12_7342238205653493376
+[2017-05-15 18:57:34] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:57:34] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:57:34] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:57:34] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:57:34] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:57:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:57:36] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:05] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:122] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:09] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:235] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:58:09_8623536422168356317
+[2017-05-15 18:58:47] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:58:47] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:58:47] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:58:47] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:58:47] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:54] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:122] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:58:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:58:58] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:58:58] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:235] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:58:58_3310447625781764680
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:59:49] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:122] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 18:59:53] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 18:59:53] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 18:59:53] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:235] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_06:59:53_6746847076257766141
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.handleProAction:action.go:18] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 19:00:57] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.setAction:action.go:122] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-15 19:01:01] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-15 19:01:01] [watcher] [coralmac.local] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-15 19:01:01] [watcher] [coralmac.local] [DEBUG] [900000001] [watcher.deleteAction:action.go:235] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-15_07:01:01_8747583968405521322
+[2017-05-16 11:29:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:29:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:156] etcd delete node /watcher/unittest/corallocalhost/ failed: client: etcd cluster is unavailable or misconfigured
+[2017-05-16 11:29:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:120] etcd create node /watcher/unittest/corallocalhost//rsyslog/config failed: client: etcd cluster is unavailable or misconfigured
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:29:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:29:38] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:29:38] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:29:38] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:250] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:29:38_8390233383567310559
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:30:10] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:131] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:30:14] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:30:14] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:30:14] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:250] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:30:14_3910947308987896715
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:36:01] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:36:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:36:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:36:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:252] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:36:05_5271581429498878361
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:38:35] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:38:39] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:38:39] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:38:39] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:252] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:38:39_1179056816278973209
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:40:05] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:133] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:40:09] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:40:09] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:40:09] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:252] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:40:09_3795710214461779115
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:41:30] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:137] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:41:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:41:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:41:34] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:256] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:41:34_5988700696690161519
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.(*Watcher).handleAction:watcher.go:54] handleAction goroutine running
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost/ OK
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config OK
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.handleProAction:action.go:22] watch prefix :/watcher/unittest/corallocalhost//rsyslog/config.d
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Create:etcd.go:123] etcd create node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:45:28] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.setAction:action.go:137] setAction: write to /tmp/watcher/nginx.conf
+[2017-05-16 11:45:32] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Delete:etcd.go:159] etcd delete node /watcher/unittest/corallocalhost//rsyslog/config.d/nginx.conf OK
+[2017-05-16 11:45:32] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [etcd.(*EtcdClient).Read:etcd.go:172] etcd read node /watcher/unittest/corallocalhost/rsyslog/config
+[2017-05-16 11:45:32] [watcher] [mayang3.gome.inc] [DEBUG] [900000001] [watcher.deleteAction:action.go:271] deleteAction: backup file /tmp/watcher/nginx.conf to /tmp/backup/nginx.conf_watcherbackup_2017-05-16_11:45:32_7312104674066839451
